@@ -5,8 +5,10 @@
 When undertaking this challenge, please follow these steps:
 
 1. **Do not fork this repository** - Instead, create a [private repository from this template](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template#creating-a-repository-from-a-template).
+![Template Example Screenshot](docs/images/template-example-01.png "Example of creating a repository from template")
 2. **Complete the challenge** and commit your changes to your private Github repository created from the template.
 3. **Submit your work** by inviting `VariLilley` as a [collaborator](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-access-to-your-personal-repositories/inviting-collaborators-to-a-personal-repository#inviting-a-collaborator-to-a-personal-repository) to your repository.
+![ Collaborator Example Screenshot](docs/images/template-example-02.png "Example of adding a collaborator to a repository")
 4. **Review process** - We will create an internal pull request containing your changes for team review. Further communications will happen via your recruitment contact.
 
 ## Challenge Objective
@@ -59,6 +61,7 @@ This exercise represents a simplified application stack designed to run locally.
 
 - **Challenge Instructions**
   `README.md`
+  `docs/images/*` - Example screenshots.
 
 - **Version Control**
   `.gitignore` - Files excluded from version control.
