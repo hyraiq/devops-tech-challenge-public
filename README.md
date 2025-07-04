@@ -1,15 +1,22 @@
 # DevOps Technical Challenge
 
+## Introduction
+
+This repository contains a DevOps technical challenge designed to assess candidates' skills in Docker containerization, web server configuration, and centralized logging implementation. The challenge involves enhancing a PHP-based file upload application with HTTPS configuration, proper domain handling, optimized NGINX and PHP-FPM settings, and centralized logging using Openobserve.
+
+**Note:** This is a technical assessment for ProcurePro recruitment purposes. If you've discovered this repository independently and are interested in opportunities with ProcurePro, please reach out to our recruitment team members on LinkedIn rather than attempting to complete this challenge unsolicited.
+
 ## How to make a submission
 
 When undertaking this challenge, please follow these steps:
 
 1. **Do not fork this repository** - Instead, create a [private repository from this template](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template#creating-a-repository-from-a-template).
+2. **Create a private repo from the template**. Following the instructuins in the link above, create a private repo. E.g.
 ![Template Example Screenshot](docs/images/template-example-01.png "Example of creating a repository from template")
-2. **Complete the challenge** and commit your changes to your private Github repository created from the template.
-3. **Submit your work** by inviting `VariLilley` as a [collaborator](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-access-to-your-personal-repositories/inviting-collaborators-to-a-personal-repository#inviting-a-collaborator-to-a-personal-repository) to your repository.
+3. **Complete the challenge** and commit your changes to your private Github repository created from the template.
+4. **Submit your work** by inviting `VariLilley` as a [collaborator](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-access-to-your-personal-repositories/inviting-collaborators-to-a-personal-repository#inviting-a-collaborator-to-a-personal-repository) to your repository.
 ![ Collaborator Example Screenshot](docs/images/template-example-02.png "Example of adding a collaborator to a repository")
-4. **Review process** - We will create an internal pull request containing your changes for team review. Further communications will happen via your recruitment contact.
+5. **Review process** - We will create an internal pull request containing your changes for team review. Further communications will happen via your recruitment contact.
 
 ## Challenge Objective
 
